@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="Apellidp_usuario">Last Name</string>
+    <string name="Nombre_usuario">Last Name</string>
+    <string name="escriba_apellido">You Last Name</string>
+    <string name="btn_Guardar">Save</string>
+    <string name="escriba_nombre">You Firth Name</string>
+</resources>

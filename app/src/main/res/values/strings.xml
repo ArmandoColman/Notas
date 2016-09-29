@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="Nombre_usuario">Nombre</string>
+    <string name="Apellidp_usuario">Apellido</string>
+    <string name="escriba_nombre">Escriba su nombre</string>
+    <string name="escriba_apellido">Escriba su Apellido</string>
+    <string name="btn_Guardar">Guardar</string>
+</resources>
